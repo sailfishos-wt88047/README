@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<project path="device/wingtech/wt88047" name="sailfishos-wt88047/android_device_wingtech_wt88047" revision="hybris-14.1" remote="github" />
+	
+	<project path="device/cyanogen/msm8916-common" name="sailfishos-wt88047/android_device_cyanogen_msm8916-common" revision="hybris-14.1" remote="github" />
+	<project path="kernel/wingtech/msm8916" name="sailfishos-wt88047/android_kernel_wingtech_msm8916" revision="hybris-14.1" remote="github" />
+	<project path="external/stlport" name="sailfishos-wt88047/android_external_stlport" revision="hybris-14.1" remote="github" />
+	 
+	
+	
+	<project path="vendor/wingtech" name="sailfishos-wt88047/proprietary_vendor_wingtech" revision="hybris-14.1" remote="github" />
+	
+	
+	<project path="rpm/" name="sailfishos-wt88047/droid-hal-wt88047" revision="master" remote="github" />
+	<project path="hybris/droid-configs" name="sailfishos-wt88047/droid-config-wt88047" revision="master" remote="github" />
+	<project path="hybris/droid-hal-version-wt88047" name="sailfishos-wt88047/droid-hal-version-wt88047" revision="master" remote="github" />
+	
+</manifest>
